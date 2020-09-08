@@ -13,15 +13,15 @@
   - Table View should be display ​Place name​, ​Distance​ from the input geographic coordinate in KM and ​place’s photo ​(if available).
 
 ### Implementation Guide
-  ■ Update Table View with search results from Google Map API. If search result matched the existing places, not update the record, else add a new record to Table View.
-  ■ Place’s image URL can be found in photos -> photo_reference in GG map JSON object
-  ■ Custom Table View Cell to display photo, place name and distance.
+  - Update Table View with search results from Google Map API. If search result matched the existing places, not update the record, else add a new record to Table View.
+  - Place’s image URL can be found in photos -> photo_reference in GG map JSON object
+  - Custom Table View Cell to display photo, place name and distance.
 
 ### Acceptance Criterias
-  ■ App should be written in Swift 3++.
-  ■ Architecturing your code wisely: for example, using VIPER, Clean Architecturing, MVVM.
-  ■ Photo loading should be asynchronous.
-  ■ You are required to ​submit your​ well documented source code to this GITHub repository
+  - App should be written in Swift 3++.
+  - Architecturing your code wisely: for example, using VIPER, Clean Architecturing, MVVM.
+  - Photo loading should be asynchronous.
+  - You are required to ​submit your​ well documented source code to this GITHub repository
 
 ## Google Map API 
   - URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=18.7717874,98.9742796&radius=1500&key=AIzaSyBIq36Frxw21zxMvU49jOMZ40wpvtYsC68
