@@ -4,9 +4,9 @@
 ## Requirement
 1 Input
   - Two input parameters are required from user: Geographic coordinates (latitude, longitude) and radius from the given point to define search area.
-  - Input can be in any form. Eg. UITextField or UITextArea Map with ability to drop pin and define circular radius, or whatever you find that suits the requirements.
+  - Input can be in any form. Eg. UITextField, UITextArea, SearchBar and Map with ability to drop pin and define circular radius, or whatever you find that suits the requirements.
   - Pass Search button
-  
+
 2 Output
   - Display search result information in a ​custom​ UITableView, UITableViewCell.
   - Display search result information in a Map View with custom pin.
