@@ -30,3 +30,5 @@
   - location: The latitude/longitude around which to retrieve place information
   - radius: Defines the distance (in meters) maximum radius 50000 meters
   - key: you can use this key: ​"AIzaSyBIq36Frxw21zxMvU49jOMZ40wpvtYsC68"
+
+  ![Test Image 1](/Users/narongkanthanu/Desktop/Map.png)
